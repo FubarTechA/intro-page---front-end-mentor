@@ -42,7 +42,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/FubarTechA/intro-page---front-end-mentor.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My processes
