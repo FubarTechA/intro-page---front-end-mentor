@@ -54,6 +54,10 @@ nav {
   /* overflow: hidden; */
 }
 
+.nav_links a {
+  font-size: 16px;
+}
+
 .nav_links li a:hover {
   color: hsl(0, 0%, 8%);
 }
@@ -124,7 +128,7 @@ nav {
   color: hsl(0, 0%, 41%);
   margin-right: 30px;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .nav_sign a:hover {
@@ -161,11 +165,11 @@ section {
 }
 
 .writeup h1 {
-  padding: 120px 0px 40px;
-  font-size: 90px;
+  padding: 50px 0px 20px;
+  font-size: 70px;
   color: hsl(0, 0%, 8%);
   font-weight: 600;
-  line-height: 90px;
+  line-height: normal;
 }
 .writeup h1 span {
   display: block;
@@ -173,10 +177,10 @@ section {
 
 .writeup p {
   width: 70%;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 500;
   color: hsl(0, 0%, 41%);
-  margin-bottom: 70px;
+  margin-bottom: 40px;
   line-height: 24px;
 }
 
@@ -196,7 +200,7 @@ section {
   color: hsl(0, 0%, 8%);
 }
 .writeup .client {
-  margin-top: 100px;
+  margin-top: 80px;
   width: 100%;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
